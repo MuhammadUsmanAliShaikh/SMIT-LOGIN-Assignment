@@ -1,0 +1,143 @@
+.main {
+    width: 1440px;
+    margin: 0 auto;
+    height: 1024px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div1 {
+    width: 585px;
+    height: 1024px;
+    border-end-start-radius: 31px;
+    border-top-left-radius: 31px;
+    border: none solid transparent;
+    background-color: rgba(0, 32, 98, 1);
+}
+
+.logo {
+    margin-top: 88px;
+    margin-left: 105px;
+}
+
+.login {
+    font-size: 40px;
+    font-weight: 300px;
+    color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 100px;
+}
+
+.input {
+    height: 49px;
+    width: 350px;
+    border: 0.3 solid rgba(70, 113, 198, 0.65);
+    border-radius: 10px;
+    background-color: rgba(15, 45, 107, 1);
+    margin-left: 140px;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+
+}
+
+.input svg {
+    margin: 10px;
+}
+
+.input input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    flex: 1;
+    font-size: 17px;
+}
+
+p {
+    color: rgb(216, 212, 212);
+    margin-left: 355px;
+    margin-top: 0px;
+
+}
+.div3{
+    width: 374.5px;
+    height: 323px;
+    border: none solid black;
+    margin-left: 123px;
+    margin-top: 70px;
+}
+
+button {
+    height: 48px;
+    width: 350px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: rgba(26, 79, 186, 1);
+    color: white;
+    margin-left: 12px;
+    font-size: large;
+}
+
+.line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.line hr {
+    width: 374px;
+    margin: 0px;
+    border: none;
+    border: 1px solid rgba(155, 155, 155, 1);
+}
+.line p{
+    color: rgba(155, 155, 155, 1);
+    margin: 0%;
+    font-size: 18px;
+}
+.box{
+     height: 48px;
+    width: 350px;
+    border: none solid transparent;
+    border-radius: 10px;
+    background-color: rgba(15, 45, 107, 1);
+    color: rgba(193, 182, 182, 1);
+    margin-left: 12px;
+    margin-top: 10px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.create{
+    display: flex;
+    justify-content: center;
+   margin: 16px;
+   color: rgba(155, 155, 155, 1);
+}
+.create a{
+    text-decoration: none;
+    color: rgba(70, 113, 198, 1);
+}
+
+.div2 {
+    width: 859px;
+    height: 1024px;
+    border: none solid transparent;
+    border-end-end-radius: 31px;
+}
+
+.div2 {
+    background-image: url(https://ucarecdn.com/ae97044e-75e3-4012-bb52-5ad32860f608/-/format/auto/-/preview/3000x3000/-/quality/lighter/);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
